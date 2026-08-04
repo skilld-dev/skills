@@ -1,0 +1,4 @@
+interface:
+  display_name: "Publish Skill"
+  short_description: "Prepare and publish a portable agent skill"
+  default_prompt: "Use $publish-skill to prepare and publish this agent skill."

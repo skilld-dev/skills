@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Skill"
+  short_description: "Find trusted skills through skilld.dev"
+  default_prompt: "Use $find-skill to find a trusted skill for this task."

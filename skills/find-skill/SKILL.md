@@ -1,6 +1,8 @@
 ---
 name: find-skill
 description: "Find, evaluate, and install trusted agent skills from the skilld.dev registry. WHEN: \"find a skill\", \"find an agent skill\", \"is there a skill for\", \"recommend a skill\", \"search curated skills\", \"install a skill\"."
+license: MIT
+compatibility: "Requires an agent with filesystem and shell access. Network access is needed for remote sources."
 ---
 
 # Find Skill

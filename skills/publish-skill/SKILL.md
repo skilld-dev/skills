@@ -1,6 +1,8 @@
 ---
 name: publish-skill
 description: "Prepare, validate, package, and publish portable Agent Skills through GitHub or npm. WHEN: \"publish a skill\", \"publish SKILL.md\", \"ship a skill\", \"release an agent skill\", \"make this skill installable\", \"add a skill to my package\"."
+license: MIT
+compatibility: "Requires an agent with filesystem and shell access. Network access is needed for remote sources."
 ---
 
 # Publish Skill
